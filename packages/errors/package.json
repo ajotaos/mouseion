@@ -1,0 +1,13 @@
+{
+	"name": "@mouseion/errors",
+	"version": "0.0.0",
+	"type": "module",
+	"devDependencies": {
+		"@tsconfig/node18": "^18.2.2",
+		"@tsconfig/strictest": "^2.0.2",
+		"@types/node": "^20.9.4"
+	},
+	"dependencies": {
+		"ts-custom-error": "^3.3.1"
+	}
+}

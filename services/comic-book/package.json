@@ -1,0 +1,17 @@
+{
+	"name": "@mouseion/comic-book-service",
+	"version": "0.0.0",
+	"type": "module",
+	"devDependencies": {
+		"@tsconfig/node18": "^18.2.2",
+		"@tsconfig/strictest": "^2.0.2",
+		"@types/node": "^20.9.4"
+	},
+	"dependencies": {
+		"@aws-sdk/client-dynamodb": "^3.454.0",
+		"@aws-sdk/lib-dynamodb": "^3.454.0",
+		"@middy/util": "^4.7.0",
+		"ts-pattern": "^5.0.5",
+		"valibot": "^0.20.1"
+	}
+}

@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+.pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional eslint cache
+.eslintcache
+
+# Local env files
+.env*.local
+
+# sst
+.sst
+.build
+
+# Miscellaneous
+.DS_Store

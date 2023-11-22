@@ -1,0 +1,14 @@
+{
+	"name": "@mouseion/env",
+	"version": "0.0.0",
+	"type": "module",
+	"dependencies": {
+		"string-ts": "^1.3.3",
+		"valibot": "^0.20.1"
+	},
+	"devDependencies": {
+		"@tsconfig/node18": "^18.2.2",
+		"@tsconfig/strictest": "^2.0.2",
+		"@types/node": "^20.9.4"
+	}
+}
